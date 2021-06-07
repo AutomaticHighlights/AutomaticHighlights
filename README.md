@@ -1,4 +1,5 @@
-# Course project for Deep Learning 2021 Spring: Automatic Football Highlights Editor (ongoing)
+# Course project for Deep Learning 2021 Spring (ongoing):
+# Automatic Football Highlights Editor 
 
 You can click the following links for more demos:
 
