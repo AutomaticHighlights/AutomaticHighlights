@@ -9,6 +9,8 @@ In specific, we design an automatic highlight editor model with two stages. The 
 
 The code of training process can be found in `src/`. Besides, we pretrain two image feature extractors during developing our model. The code of pretraining can be found in `pretrain/`.
 
+Technical details are described in [Final Report](Final Report.pdf).
+
 ## Demos
 
 We test our model on some recent football games. Here are the results. You can click the following links to watch the demos:
